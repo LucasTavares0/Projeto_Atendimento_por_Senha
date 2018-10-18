@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Atendimento_V2\Atendimento_V2\bin\Debug\Atendimento_V2.exe.config
+C:\Users\Administrator\source\repos\Atendimento_V2\Atendimento_V2\bin\Debug\Atendimento_V2.exe
+C:\Users\Administrator\source\repos\Atendimento_V2\Atendimento_V2\bin\Debug\Atendimento_V2.pdb
+C:\Users\Administrator\source\repos\Atendimento_V2\Atendimento_V2\obj\Debug\Atendimento_V2.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Atendimento_V2\Atendimento_V2\obj\Debug\Atendimento_V2.FormAtendimentoPorSenha.resources
+C:\Users\Administrator\source\repos\Atendimento_V2\Atendimento_V2\obj\Debug\Atendimento_V2.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Atendimento_V2\Atendimento_V2\obj\Debug\Atendimento_V2.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Atendimento_V2\Atendimento_V2\obj\Debug\Atendimento_V2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Atendimento_V2\Atendimento_V2\obj\Debug\Atendimento_V2.exe
+C:\Users\Administrator\source\repos\Atendimento_V2\Atendimento_V2\obj\Debug\Atendimento_V2.pdb
